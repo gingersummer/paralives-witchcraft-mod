@@ -1,0 +1,24 @@
+#Setting.SocialClusters
+ =SocialClustersUnits
+  @4916979213989574495
+   =GUID:4916979213989574495
+   =DisplayName:TT_RitualSocialGroup
+   =SocialTargetArcConstraints
+    @3886333402918358717
+     =GUID:3886333402918358717
+     =DistanceScore
+      =Amplitude:1
+      =Mean:0.4
+      =MeanIncreasePerGroupMember:0.1
+      =Width:0.4
+      =WidthIncreasePerGroupMember:0.05
+   =SocialForm:8729100425587876926
+   =PostureScorings:7057058302881267359
+   =DistanceToMoveToPosition
+    =Amplitude:0.5
+    =WidthIncreasePerGroupMember:0.3
+   =PlacementProximityMalus
+    =Amplitude:0.4
+    =Width:1
+    =WidthIncreasePerGroupMember:0.1
+   =RoomBlobScore:10

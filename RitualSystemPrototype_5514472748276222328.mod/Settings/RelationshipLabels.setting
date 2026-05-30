@@ -1,0 +1,24 @@
+#Setting.RelationshipLabels
+ =AllLabels
+  @2515545008030452106
+   =GUID:2515545008030452106
+   =DisplayName:TT_MagicalMentor
+   =OverrideMaxLevel:10
+   =NotificationsWhenUnlocked
+    @5448996452311683552
+     =GUID:5448996452311683552
+     =Value:5778332468891864279
+   =ExtraLabelsToAdd
+    @9156322540896342898
+     =GUID:9156322540896342898
+     =LabelToAdd:5400569074147332740
+   =HiddenWhenNotInDebugMode:True
+  @5400569074147332740
+   =GUID:5400569074147332740
+   =DisplayName:TT_MagicalStudent
+   =ExtraLabelsToAdd
+    @376254205847351916
+     =GUID:376254205847351916
+     =LabelToAdd:2515545008030452106
+   =HiddenWhenNotInDebugMode:True
+   =OverrideMaxLevel:10

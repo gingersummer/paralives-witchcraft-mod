@@ -1,0 +1,12 @@
+#Setting.Notifications
+ =AllNotifications
+  @5778332468891864279
+   =GUID:5778332468891864279
+   =DisplayName:TT_MagicalMentorUnlocked
+   =CustomLocalizationParameterOrder:True
+   =LocalizationParametersOrder
+    @1365321289885349973
+     =GUID:1365321289885349973
+     =CharacterIndex:1
+    @7652531553865538234
+     =GUID:7652531553865538234

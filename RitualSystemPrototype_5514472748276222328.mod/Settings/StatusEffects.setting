@@ -1,0 +1,42 @@
+#Setting.StatusEffects
+ =AllStatusEffects
+  @475795013425873935
+   =GUID:475795013425873935
+   =DisplayName:TT_InRitual
+   =EmotionDisplay:3
+   =IsShownAsMainEmotion:True
+   =BackgroundColor:0.2078431 0.227451 0.4235294 1
+   =Icon:2517089197540936920
+   =Effects
+    @2045910611870754668
+     =GUID:2045910611870754668
+     =EffectType:700
+     =Aura:1633098667777331467
+   =HasSpecificDuration:True
+   =DurationInMinutes:60
+  @5302291862424140497
+   =GUID:5302291862424140497
+   =DisplayName:TT_IsRitualInitiator
+   =HasSpecificDuration:True
+   =DurationInMinutes:60
+   =EmotionDisplay:3
+   =BackgroundColor:0.2941958 0.2912373 0.5417355 1
+   =Icon:8394987039605527564
+   =IsShownAsMainEmotion:True
+  @5619421971271432299
+   =GUID:5619421971271432299
+   =DisplayName:TT_ManaBarNeed
+   =Effects
+    @4303332964041581204
+     =GUID:4303332964041581204
+     =EffectType:104
+     =NeedGUID:2733457002620079030
+  @5603614829076512811
+   =GUID:5603614829076512811
+   =DisplayName:TT_WantsToDoRitual
+   =HasSpecificDuration:False
+   =EmotionDisplay:0
+   =IsShownAsMainEmotion:False
+   =BackgroundColor:0.5494374 0.5330957 0.6061984 1
+   =Icon:8394987039605527564
+   =Description:1626421257763513787

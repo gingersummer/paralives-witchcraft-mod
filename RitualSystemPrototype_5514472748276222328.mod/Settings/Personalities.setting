@@ -1,0 +1,13 @@
+#Setting.Personalities
+ =PersonalityTraits
+  @9018128351433682596
+   =GUID:9018128351433682596
+   =DisplayName:TEMP_TT_Lifestyle_Wiccan
+   =PersonalityTraitCategory:7431647724327720272
+   =Type:2
+   =Icon:8394987039605527564
+   =DefaultValueRequirement
+    =GUID:3602646505078626794
+  g4181114384249348907
+   =DefaultValueRequirement
+    =GUID:5002159014963265560

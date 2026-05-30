@@ -1,0 +1,127 @@
+#Setting.Translations
+ =Items
+  g944482756322619295
+   =GUID:944482756322619295
+   =Key:Interaction_TT_MakeSelfRitualLeader
+   =Value:Lead Ritual Yourself
+   =InfoForTranslators
+  g4079034731025515081
+   =GUID:4079034731025515081
+   =Key:RelationshipLabel_TT_InRitualTogether
+   =LocalizationState:32
+   =Value:Participating in a Ritual Together
+   =InfoForTranslators
+  g2038200572774871778
+   =GUID:2038200572774871778
+   =Key:StatusEffect_TT_InRitual
+   =Value:In Ritual
+   =InfoForTranslators
+  g3785845513897668927
+   =GUID:3785845513897668927
+   =Key:Interaction_TT_AskToJoinRitual
+   =Value:Ask To Join Ritual
+   =InfoForTranslators
+  g7010985829828182512
+   =Key:NestedInteraction_GoHere
+   =Value:Go here
+   =InfoForTranslators
+  g2735015811045494442
+   =GUID:2735015811045494442
+   =Key:Interaction_TT_CauseBuffs
+   =Value:Surge Ritual Magic
+   =InfoForTranslators
+  g2857312765835572164
+   =GUID:2857312765835572164
+   =Key:BrainLogic_TT_AddBuffsDuringRitual
+   =LocalizationState:32
+   =Value:Magic Surge
+   =InfoForTranslators
+  g7645954520268366955
+   =GUID:7645954520268366955
+   =Key:Interaction_TT_PerformRitual
+   =Value:Perform Ritual Dance
+   =InfoForTranslators
+   =LocalizationState:32
+  g4494512815082522755
+   =GUID:4494512815082522755
+   =Key:StatusEffect_TT_IsRitualLeader
+   =Value:Ritual Leader
+   =InfoForTranslators
+  g6907530047925235035
+   =GUID:6907530047925235035
+   =Key:StatusEffect_TT_IsRitualInitiator
+   =Value:Ritual Leader
+   =InfoForTranslators
+  g6413839988182784095
+   =GUID:6413839988182784095
+   =Key:Need_TT_Mana
+   =Value:Mana
+   =InfoForTranslators
+  g2314508706073081942
+   =GUID:2314508706073081942
+   =Key:NeedDescription_Mana
+   =LocalizationState:32
+   =Value:The lifeblood of Magick, necessary to all Arcane practice.
+   =InfoForTranslators
+  g6743943185282818584
+   =GUID:6743943185282818584
+   =Key:NeedDescription_Alternate_Mana_Underage
+   =Value:Mana
+   =InfoForTranslators
+  g6681470146957750190
+   =GUID:6681470146957750190
+   =Key:Trait_TEMP_TT_Lifestyle_Wiccan
+   =Value:Wiccan
+   =InfoForTranslators
+  g5566363317483673283
+   =Key:Trait_Lifestyle_Vegetarian
+   =Value:Vegetarian
+   =InfoForTranslators
+  g20952410721556569
+   =GUID:20952410721556569
+   =Key:BrainLogic_TT_ManaBarAdd
+   =LocalizationState:32
+   =Value:Mana Reserves
+   =InfoForTranslators
+  g5122822490530224415
+   =GUID:5122822490530224415
+   =Key:StatusEffect_TT_WantsToDoRitual
+   =Value:In Ritual Group
+   =InfoForTranslators
+   =LocalizationState:32
+  g8540491722841476476
+   =GUID:8540491722841476476
+   =Key:BrainLogic_TT_InGroupForRitualCheck
+   =Value
+   =InfoForTranslators
+  g1626421257763513787
+   =GUID:1626421257763513787
+   =Key:StatusEffectDescription_TT_WantsToDoRitual
+   =LocalizationState:32
+   =Value:not supposed to show up but might due to bug...
+   =InfoForTranslators
+  g978898144776271681
+   =GUID:978898144776271681
+   =Key:BrainLogic_TT_AskedToJoinRitual
+   =Value
+   =InfoForTranslators
+  g4974385519162123157
+   =GUID:4974385519162123157
+   =Key:Notification_TT_MagicalMentorUnlocked
+   =LocalizationState:32
+   =Value:{0} just became the Arcane Mentor to {1}
+   =InfoForTranslators
+  g8755258431559354993
+   =Key:Notification_RelationshipLabel_Unlocked
+   =Value:{1} gained the {2} label with {0}.
+   =InfoForTranslators
+  g4488073687288983928
+   =GUID:4488073687288983928
+   =Key:RelationshipLabel_TT_MagicalStudent
+   =Value:Magical Student
+   =InfoForTranslators
+  g5233310458497427746
+   =GUID:5233310458497427746
+   =Key:TogetherCard_TT_AskToBeMentor
+   =Value:Ask To Be Mentor
+   =InfoForTranslators

@@ -1,0 +1,24 @@
+#Setting.Needs
+ =AllNeeds
+  g1437767414855661356
+   =ShowVertically:False
+  @2733457002620079030
+   =GUID:2733457002620079030
+   =DisplayName:TT_Mana
+   =Description:2314508706073081942
+   =Icon:8394987039605527564
+   =ActivatedByDefault:False
+   =AlternatePresentations
+    @6018536948354361803
+     =GUID:6018536948354361803
+     =DisplayName:Mana_Underage
+     =CharacterRequirement:7159895939728291163
+     =AlternateIcon:8394987039605527564
+   =UsesWarningMultiplier:False
+   =WarningMultiplierRequirement:4999878959781798951
+   =UsesCriticalMultiplier:False
+   =ShowVertically:True
+   =ShowWhenNotFull:False
+   =BaseReplenishSpeedInUnitsPerHour:2
+  g2430887881327456234
+   =ShowVertically:False

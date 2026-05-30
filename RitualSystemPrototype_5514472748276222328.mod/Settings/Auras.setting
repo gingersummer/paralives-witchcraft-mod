@@ -1,0 +1,6 @@
+#Setting.Auras
+ =AllAuras
+  @1633098667777331467
+   =GUID:1633098667777331467
+   =DisplayName:TT_CharacterAuraInRitual
+   =AuraAffectsEmittingCharacter:True
